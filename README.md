@@ -11,3 +11,9 @@ These design patterns are all about class instantiation. This pattern can be fur
 ## Behavioral design patterns
 These design patterns are all about Class's objects communication. Behavioral patterns are those patterns that are most specifically concerned with communication between objects.
 * [Observer](https://github.com/Rajko97/DesignPatterns/tree/observer)
+
+## Structural design patterns
+These design patterns are all about Class and Object composition. Structural class-creation patterns use inheritance to compose interfaces. Structural object-patterns define ways to compose objects to obtain new functionality.
+* [Adapter](https://github.com/Rajko97/DesignPatterns/tree/adapter)
+* [Decorator]()
+* [Facade]()
