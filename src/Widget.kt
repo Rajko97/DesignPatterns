@@ -1,0 +1,3 @@
+interface Widget {
+    fun draw()
+}
